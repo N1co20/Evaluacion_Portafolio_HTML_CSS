@@ -132,3 +132,99 @@ nav a{
 .card-datos p{
     margin: 10px 0;
 }
+
+
+.tabla-habilidades{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 40px;
+}
+
+.tabla-habilidades th{
+    background-color: #1a8028;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+.tabla-habilidades td{
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.barra{
+    width: 100%;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+
+.progreso{
+    height: 100%;
+    border-radius: 5px;
+}
+
+
+.html{
+    width: 40%;
+    background-color: #1e3a5f;
+}
+
+.javascrip{
+    width: 20%;
+    background-color: #2e8b57;
+}
+
+.github{
+    width: 40%;
+    background-color: #f39c12;
+}
+
+.css3{
+    width: 15%;
+    background-color: #8e44ad;
+}
+.contenedor-habilidades{
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+}
+
+.bloques-habilidades{
+    display: flex;
+    gap: 20px;
+}
+
+
+.cuadro{
+    width: 50%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.1);
+}
+
+
+.cuadro h3{
+    margin-bottom: 15px;
+}
+
+
+.cuadro ul, .cuadro ol{
+    padding-left: 20px;
+}
+
+.habilidades h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+
+.subtitulo2 {
+    text-align: center;
+    color: gray;
+    margin-bottom: 40;
+}
