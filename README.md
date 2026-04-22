@@ -1,4 +1,4 @@
-<img width="1881" height="583" alt="inicio" src="https://github.com/user-attachments/assets/a3d42e51-b8c5-4c29-ac45-663f8df2a862" /># Portafolio Web - Nicolas Ayala
+# Portafolio Web - Nicolas Ayala
 
 ## Descripción
 Este proyecto consiste en un portafolio web desarrollado con HTML5 y CSS3.
