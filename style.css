@@ -422,3 +422,35 @@ button{
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+@media (max-width: 768px){
+
+    .inicio{
+        flex-direction: column;
+    }
+
+    .contenedor-sobre-mi{
+        flex-direction: column;
+    }
+
+    .bloques-habilidades{
+        flex-direction: column;
+    }
+
+    .contenedor-proyectos{
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .contenedor-contacto{
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width: 480px){
+
+    .contenedor-proyectos{
+        grid-template-columns: 1fr;
+    }
+
+}
