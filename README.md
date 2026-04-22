@@ -29,7 +29,7 @@ El portafolio cuenta con las siguientes secciones:
 ## Capturas de pantalla
 
 ### Inicio
-![Inicio](assets/inicio.png)
+![Inicio](assets/inicio.jpg)
 
 ### Sobre mí
 ![Sobre mi](assets/sobre-mi.png)
