@@ -196,11 +196,13 @@ nav a{
 .bloques-habilidades{
     display: flex;
     gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
 }
 
 
 .cuadro{
-    width: 50%;
+    width: 300px;
     background-color: #f9f9f9;
     padding: 20px;
     border-radius: 10px;
@@ -226,7 +228,7 @@ nav a{
 .subtitulo2 {
     text-align: center;
     color: gray;
-    margin-bottom: 40;
+    margin-bottom: 40px;
 }
 
 
@@ -401,7 +403,7 @@ button{
 }
 
 
-.cuadro{
+.icono-cuadro{
     display: inline-block;
     width: 10px;
     height: 1%;
@@ -409,4 +411,14 @@ button{
     margin-right: 10px;
     border-radius: 3px; 
     vertical-align: middle;
+}
+
+.footer-abajo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
