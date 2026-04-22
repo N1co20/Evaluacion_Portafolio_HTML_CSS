@@ -1,4 +1,4 @@
-# Portafolio Web - Nicolas Ayala
+<img width="1881" height="583" alt="inicio" src="https://github.com/user-attachments/assets/a3d42e51-b8c5-4c29-ac45-663f8df2a862" /># Portafolio Web - Nicolas Ayala
 
 ## Descripción
 Este proyecto consiste en un portafolio web desarrollado con HTML5 y CSS3.
@@ -24,24 +24,30 @@ El portafolio cuenta con las siguientes secciones:
 - Proyectos
 - Contacto
 
+
 ---
 
 ## Capturas de pantalla
 
 ### Inicio
-![Inicio](assets/inicio.png)
+<img width="1881" height="583" alt="inicio" src="https://github.com/user-attachments/assets/705d9f2a-7b3f-4b23-a4a2-ea32ddbb2ce1" />
+
 
 ### Sobre mí
-![Sobre mi](assets/sobre-mi.png)
+<img width="1849" height="576" alt="sobre-mi" src="https://github.com/user-attachments/assets/32cff9f3-88ab-4561-a580-0c8433c023ec" />
+
 
 ### Habilidades
-![Habilidades](assets/habilidades.png)
+<img width="1878" height="743" alt="habilidades" src="https://github.com/user-attachments/assets/e9b91f68-9915-4131-92af-a6f69d23c1cd" />
+
 
 ### Proyectos
-![Proyectos](assets/proyectos.png)
+<img width="1815" height="794" alt="proyectos" src="https://github.com/user-attachments/assets/54f0570d-7d0f-4e61-b233-bf784759f89d" />
+
 
 ### Contacto
-![Contacto](assets/contacto.png)
+<img width="1876" height="901" alt="contacto" src="https://github.com/user-attachments/assets/1b1af07c-3fbb-4ab1-9811-50b5c8381e18" />
+
 
 
 ---
